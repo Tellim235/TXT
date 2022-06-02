@@ -1,0 +1,5 @@
+Film: Spider man
+Series: Friends
+Food: Meat
+Season: Summer
+Counrty: Korea
