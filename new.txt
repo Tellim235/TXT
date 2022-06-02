@@ -1,4 +1,4 @@
-Kseniya
-35
-1
-300000
+Name: Kseniya
+Age: 35
+Pets: 1
+Salary: 300000
